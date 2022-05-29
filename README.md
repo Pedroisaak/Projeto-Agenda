@@ -13,6 +13,9 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 <li>Envio, em caso de sucesso, a senha formatada em hash para o servidor utilizando a biblioteca bcryptjs
 </ul>
 
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/101290219/170896355-4ccc2323-2024-49e3-9715-9ad46f9f7b32.gif)
+
+
 ### Login
 <ul>
 <li>Verifica no database se o usuário esta cadastrado
