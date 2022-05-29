@@ -13,7 +13,8 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 <li>Envio, em caso de sucesso, a senha formatada em hash para o servidor utilizando a biblioteca bcryptjs
 </ul>
 
-![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/101290219/170896355-4ccc2323-2024-49e3-9715-9ad46f9f7b32.gif)
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/101290219/170896496-7b999ab7-062a-4488-83f1-132ff8cbd012.gif)
+
 
 
 ### Login
@@ -36,6 +37,9 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 <li>Validação para o envio do form, obrigatório o preenchimento do nome e email ou telefone
 <li>Como feito no propósito de criar um CRUD, após inserir o usuário poderá edita-lo ou exclui-lo
 </ul>
+
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/101290219/170896616-74fe6ecb-adf2-4c47-a04a-73909910a9f4.gif)
+
 
 ### Segurança
 <ul>
