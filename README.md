@@ -1,6 +1,6 @@
 # Projeto Agenda
 
-Um projeto agenda feito em node js utilizando como database o mongoDB em arquitetura MVC com o intuíto de aprender a programar em js
+Um projeto agenda feito em node js utilizando como database o mongoDB em arquitetura MVC com o intuíto de aprender a programar em JS
 
 
 ### Cadastro Usuário
