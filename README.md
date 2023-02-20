@@ -16,7 +16,6 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/101290219/170896496-7b999ab7-062a-4488-83f1-132ff8cbd012.gif)
 
 
-
 ### Login
 <ul>
 <li>Verifica no database se o usuário esta cadastrado
