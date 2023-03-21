@@ -3,7 +3,7 @@
 Um projeto agenda feito em node js utilizando como database o mongoDB em arquitetura MVC com o intuíto de aprender a programar em JS
 
 
-### Cadastro Usuário
+### Cadastro Usuario
 <ul>
 <li>Schema: 'email' and 'password'
 <li>Validação de email utilizando a biblioteca 'Validator' 
