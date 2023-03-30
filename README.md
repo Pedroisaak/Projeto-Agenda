@@ -24,7 +24,7 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 
 ### Home
 <ul>
-<li>Schema: 'titulo' and 'descricao'
+<li>Schema: 'titulo' and 'descricao"
 <li>Boas-vindas ao usuário
 <li>Libera o acesso de cadastro de usuários
 <li>Renderiza pelo database,caso haja, os contatos já cadastrados pelo usuário
