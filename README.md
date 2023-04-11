@@ -5,7 +5,7 @@ Um projeto agenda feito em node js utilizando como database o mongoDB em arquite
 
 ### Cadastro Usuario
 <ul>
-<li>Schema: 'email' and 'password'
+<li>Schema 'email' and 'password'
 <li>Validação de email utilizando a biblioteca 'Validator' 
 <li>Validação de e-mail já utilizado no cadastro por busca no database
 <li>Validação do comprimento de caracteres de caracteres da senha
